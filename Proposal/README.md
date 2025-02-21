@@ -2,6 +2,8 @@
 
 ## OOPL Lab 01 - 提交 Proposal
 
+⚠️ Due Date: 2025/02/28 ⚠️
+
 在這個 Lab 中，你將：
 
 - 撰寫 Proposal
@@ -21,6 +23,8 @@
 ![image-20250220173807132](./assets/PR_Content.png)
 
 對於更多的資訊，請參考[課程專案的 PR 頁面](https://github.com/Okapi-Oriented-Programming/2025-OOPL/pulls)。
+
+對於 Proposal 規定的格式，請參考章節「Proposal 格式」。
 
 ## 手把手教你完成 Lab
 
@@ -84,7 +88,7 @@ Pull Request 就像是發送變更的申請，你可以隨時發送 Pull Request
 
 <img src="./assets/Clone_Tree.png" alt="image-20250220183031916" style="zoom:50%;" />
 
-你需要在 Proposal 資料夾中，建立一個以組員學號為名字的資料夾（舉例：`109590031` 或者 `109590031-109590032`），並且在資料夾內放上 `Proposal.md`。
+你需要在 Proposal 資料夾中，建立一個以組員學號為名字的資料夾（舉例：`109590031` 或者 `109590031-109590032`），並且在資料夾內放入 `Proposal.md`。
 
 <img src="./assets/Clone_Tree_Add_Proposal.png" alt="image-20250220183208916" style="zoom:50%;" />
 
@@ -93,6 +97,8 @@ Pull Request 就像是發送變更的申請，你可以隨時發送 Pull Request
 ### 將 Proposal 推到自己的 GitHub 專案庫
 
 當你完成了 Proposal 的撰寫後，你可以將你的 Proposal 推到自己的 GitHub 專案庫。
+
+以下的指令應該要在具有 `.git` 的資料夾執行。
 
 ```sh
 git add .
